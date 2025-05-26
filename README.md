@@ -8,15 +8,15 @@
 
 
 ## 项目结构
-
-├── train.py # 用于模型训练
-├── test.py # 使用训练好的模型进行预测测试
-├── data/ # 图像数据目录（建议本地准备）
-├── datafile/ # 包含数据划分的 txt 文件（train/val）
-├── model_weights/ # 保存训练好的模型权重
-├── tensorboard_logs/ # tensorboard 日志目录（可选）
-├── README.md # 项目说明文件
-└── .gitignore # 忽略无关文件
+  
+  ├── train.py # 用于模型训练
+  ├── test.py # 使用训练好的模型进行预测测试
+  ├── data/ # 图像数据目录（建议本地准备）
+  ├── datafile/ # 包含数据划分的 txt 文件（train/val）
+  ├── model_weights/ # 保存训练好的模型权重
+  ├── tensorboard_logs/ # tensorboard 日志目录（可选）
+  ├── README.md # 项目说明文件
+  └── .gitignore # 忽略无关文件
 
 
 
